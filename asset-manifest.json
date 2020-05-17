@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/stockexchange/static/css/main.c1c68314.chunk.css",
+    "main.js": "/stockexchange/static/js/main.ae12c380.chunk.js",
+    "main.js.map": "/stockexchange/static/js/main.ae12c380.chunk.js.map",
+    "runtime-main.js": "/stockexchange/static/js/runtime-main.b8c77824.js",
+    "runtime-main.js.map": "/stockexchange/static/js/runtime-main.b8c77824.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/stockexchange/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.96e27763.chunk.js": "/stockexchange/static/js/2.96e27763.chunk.js",
+    "static/js/2.96e27763.chunk.js.map": "/stockexchange/static/js/2.96e27763.chunk.js.map",
+    "index.html": "/stockexchange/index.html",
+    "precache-manifest.27f774329dbbd61f7718f5e530dd364c.js": "/stockexchange/precache-manifest.27f774329dbbd61f7718f5e530dd364c.js",
+    "service-worker.js": "/stockexchange/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/stockexchange/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.c1c68314.chunk.css.map": "/stockexchange/static/css/main.c1c68314.chunk.css.map",
+    "static/js/2.96e27763.chunk.js.LICENSE.txt": "/stockexchange/static/js/2.96e27763.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8c77824.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.96e27763.chunk.js",
+    "static/css/main.c1c68314.chunk.css",
+    "static/js/main.ae12c380.chunk.js"
+  ]
+}
