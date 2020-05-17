@@ -1,0 +1,27 @@
+.container {
+  text-align: center; 
+  margin-left: 20px;
+  margin-top: 50px;
+  font-family: 'Lato', sans-serif;
+  width: 100%;
+  float: left;
+};
+.exchangeTitle {
+  font-size: '20px'; 
+  font-weight: 'bold'; 
+  color: 'darkslateblue';
+}
+.gridList {
+  width: 500;
+  height: 50
+};
+.table{
+  width: 650;
+};
+.tableHeader {
+  font-weight: bold;
+  font-size: 10px
+};
+.tableRow {
+  font-size: 10px
+};
